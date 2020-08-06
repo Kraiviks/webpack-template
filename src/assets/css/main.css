@@ -100,11 +100,4 @@ section,
   min-width: 100vh;
 }
 
-#app h1 {
-  color: red;
-  text-align: center;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
 /*# sourceMappingURL=main.css.map */
