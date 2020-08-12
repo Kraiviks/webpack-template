@@ -100,7 +100,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: './src/index.html',
       options:{
-      	minify: false
+      	minify: true
       }
     })
   ]
